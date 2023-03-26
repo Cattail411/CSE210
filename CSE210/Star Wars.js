@@ -1,0 +1,2 @@
+
+{fetch swapi.dev;};
